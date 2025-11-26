@@ -34,10 +34,12 @@ Whether you're planning a studio setup, designing a live sound rig, or just expl
 
 Here are some features I'm currently planning to add next:
 
-- [ ] Rename racks and gear
+- [x] Rename racks and gear
 - [ ] Cable colouring
 - [ ] Add more presets of different audio equipment under each category
 - [ ] Branch out gear to include network devices like switches and routers, including support for gear that may not be rack mounted but velcro'ed/taped/ziptied etc inside the case
+- [ ] Add images to gear in the rack
+- [ ] Ability to mount gear on the back side of racks
 
 ---
 
